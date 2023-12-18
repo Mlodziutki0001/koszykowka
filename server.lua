@@ -1,5 +1,5 @@
 --[[ Version Checker ]]--
-local version = "1.0.0"
+local version = "2.0.0"
 
 if Config.CheckForUpdates then
     AddEventHandler("onResourceStart", function(resource)
